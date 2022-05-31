@@ -1,5 +1,5 @@
 ## Hi, I'm Jacky
-An aspiring software engineer from Irvine, CA
+An aspiring software engineer pursuing CS at Johns Hopkins University
 
 <h3 align = "">
     Languages
