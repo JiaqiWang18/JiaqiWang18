@@ -41,6 +41,7 @@ An aspiring software engineer pursuing CS at Johns Hopkins University
 <h4>DevOps/Cloud</h4>
 <p>
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub Actions-%232088FF.svg?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>
