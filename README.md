@@ -1,5 +1,6 @@
 ## Hi, I'm Jacky
-An aspiring software engineer pursuing CS at Johns Hopkins University
+An aspiring software engineer pursuing CS at Johns Hopkins University.
+I am interested in software development and more specifically working with server-side and DevOps technologies.
 
 <h3 align = "">
     Languages
